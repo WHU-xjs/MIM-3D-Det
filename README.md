@@ -1,5 +1,6 @@
 # MIM: High-definition Maps Incorporated Multi-view Object Detection
-https://github.com/N01KT4/MIM-3d-detection/blob/pub/mim-full-0.35-trim-14.mp4
+
+https://github.com/WHU-xjs/MIM-3D-Det/assets/60166663/e2eb1709-3c6e-460b-9346-8299d9296815
 
 - [x] release codes and scripts
 - [x] release trained weights
